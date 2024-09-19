@@ -1,2 +1,2 @@
 # Shark
- - [Live](https://shark-ritesh.vercel.app/))
+ - [Live](https://shark-ritesh.vercel.app/)
